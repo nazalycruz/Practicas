@@ -1,1 +1,0 @@
-En este capitulo veremos cómo usar Github para alojar repositorios en remo Ctrl+D
